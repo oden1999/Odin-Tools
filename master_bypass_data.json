@@ -1,0 +1,3752 @@
+{
+  "games": {
+    "7940": {
+      "appid": "7940",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 9 and VC Redist",
+        "If the game doesn't launch with steam, go to the main game path and open the exe iw3sp.exe."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Call of Duty 4: Modern Warfare (2007)",
+      "nombre_fix": "Call of Duty 4 Modern Warfare - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 9",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "10180": {
+      "appid": "10180",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 9 and VC Redist",
+        "If the game doesn't launch with steam, go to the main game path and open the exe iw4sp.exe."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Call of Duty: Modern Warfare 2 (2009)",
+      "nombre_fix": "Call of Duty Modern Warfare 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 9",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "12200": {
+      "appid": "12200",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Bully: Scholarship Edition",
+      "nombre_fix": "Bully: Scholarship Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "12210": {
+      "appid": "12210",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "nombre_fix": "Grand Theft Auto IV: The Complete Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "17410": {
+      "appid": "17410",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 10, EA Play and VC Redist.",
+        "If the game doesn’t start or crashes on launch, right-click on MirrorsEdge.exe, go to Properties → Compatibility, and enable Run this program in compatibility mode for: Windows XP (Service Pack 3)."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Mirror's Edge",
+      "nombre_fix": "Mirror's Edge - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 10",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "33230": {
+      "appid": "33230",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed II",
+      "nombre_fix": "Assassin's Creed II - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "33440": {
+      "appid": "33440",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/792c7b5aae4a79e78aaeda80516ae2ac.png",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/1cfef7cfd8d26b1ecb8b0eccca6366ca.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Driver San Francisco",
+      "nombre_fix": "Driver San Francisco - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "39140": {
+      "appid": "39140",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "The game only works with my version of manifest, download it from my bot or from the library here in the app"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "FINAL FANTASY VII",
+      "nombre_fix": "FINAL FANTASY VII - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "42700": {
+      "appid": "42700",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 9 and VC Redist",
+        "If the game doesn't launch, go to the main folder of the game, open the localization.txt file, and change it to the language."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Call of Duty: Black Ops",
+      "nombre_fix": "Call of Duty Black Ops - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 9",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "47870": {
+      "appid": "47870",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/8bed24e4704ee937ecd84b814bc58b6a.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, C++2008 and EA Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Need for Speed: Hot Pursuit",
+      "nombre_fix": "Need for Speed Hot Pursuit - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "C++ 2008",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "48190": {
+      "appid": "48190",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Brotherhood",
+      "nombre_fix": "Assassin's Creed Brotherhood - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "50130": {
+      "appid": "50130",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Mafia II (Classic)",
+      "nombre_fix": "Mafia II - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "110800": {
+      "appid": "110800",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX.",
+        "You need to launch the game with the exe called LANoire, not with steam"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "L.A. Noire",
+      "nombre_fix": "L.A. Noire - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "115300": {
+      "appid": "115300",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 10 and VC Redist",
+        "If the game doesn't launch with steam, go to the main folder of the game, and launch iw5sp.exe.",
+        "For play online, execute the exe iw5mp.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+      "nombre_fix": "Call of Duty Modern Warfare 3 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 10",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "201870": {
+      "appid": "201870",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/grid/5b4db7da70c4c1f3005198b8379ec177.png",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/105fb0578a9e90c458f69bad63c38709.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Revelations",
+      "nombre_fix": "Assassins Creed Revelations - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "202970": {
+      "appid": "202970",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/8f14179f61cad1a80133387187c01092.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist",
+        "This game only includes the campaign. If you want to play Zombies and multiplayer, I recommend using Plutonium."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Call of Duty: Black Ops II",
+      "nombre_fix": "Call of Duty Black Ops II - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "203140": {
+      "appid": "203140",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Hitman: Absolution",
+      "nombre_fix": "Hitman: Absolution - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "204100": {
+      "appid": "204100",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX.",
+        "It's very important that your graphics card is compatible with DirectX 12, otherwise the game won't start."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Max Payne 3",
+      "nombre_fix": "Max Payne 3 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "208480": {
+      "appid": "208480",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed III",
+      "nombre_fix": "Assassin's Creed III - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "209160": {
+      "appid": "209160",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 10 and VC Redist",
+        "Open the game with iw6-mod.exe or with alterware-launcher.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty: Ghosts",
+      "nombre_fix": "Call of Duty Ghosts - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 10",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "220240": {
+      "appid": "220240",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, Visual C++ 2008, Visual C++ 2010 and .NET 4.0."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry 3",
+      "nombre_fix": "Far Cry 3 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "Visual C++ 2008",
+        "Visual C++ 2010",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "224060": {
+      "appid": "224060",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/ce4cb51bc1dd050febf96d2500681491.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/e57e85a7df105d798f7976d594fec4fc.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Deadpool",
+      "nombre_fix": "Deadpool - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "225540": {
+      "appid": "225540",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Just Cause 3",
+      "nombre_fix": "Just Cause 3 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "233270": {
+      "appid": "233270",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/18b16aa4f6882ecd819ad38f21394925.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/84aaa84129e365590aeb86b57697edb9.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, Visual C++ 2008, Visual C++ 2010 and .NET 4.0."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry® 3 Blood Dragon",
+      "nombre_fix": "Far Cry® 3 Blood Dragon - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "Visual C++ 2008",
+        "Visual C++ 2010",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "234140": {
+      "appid": "234140",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Mad Max",
+      "nombre_fix": "Mad Max - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "235600": {
+      "appid": "235600",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/31d39ab9c2bc8d5028fcc4ed34acc28c.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/dc10fce584f2cdf09d6690e0f2883227.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Tom Clancy's Splinter Cell Blacklist",
+      "nombre_fix": "Tom Clancy's Splinter Cell Blacklist - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        ".NET"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "241560": {
+      "appid": "241560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://i.imgur.com/e6oKqqV.jpeg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/d2500d51d3ed0791852f4ea4b4a2cf03.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "The game only works when launched through Steam."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "The Crew",
+      "nombre_fix": "The Crew - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "242050": {
+      "appid": "242050",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed IV Black Flag",
+      "nombre_fix": "Assassin's Creed IV Black Flag - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "242550": {
+      "appid": "242550",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/f0ac7bfbd398770a71003c2aced6a951.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/aa01df8e6c2526116e1a7eab3f634de8.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "I recommend marking the game folder as an exception in your antivirus so that it does not delete your files."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Rayman Legends",
+      "nombre_fix": "Rayman Legends - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "243470": {
+      "appid": "243470",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/601b5cbe8c87380898b5911c1e904d31.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/4f89626165ff9607bfc8c6cff2fed560.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET 4.0 and Ubisoft Play.",
+        "Remember to launch the game with exe watch_dogs.exe inside the bin folder",
+        "Remember to mark the game folder as an exception before applying the fix"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Watch_Dogs",
+      "nombre_fix": "Watch_Dogs - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "255480": {
+      "appid": "255480",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/c5d644fa8a86ad83e43f040a9eeb4bbc.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/863fdb719f9f659a50266e85255bae68.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "NBA 2K14",
+      "nombre_fix": "NBA 2K14 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "271590": {
+      "appid": "271590",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX 11."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto V Legacy",
+      "nombre_fix": "Grand Theft Auto V Legacy -  bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX 11"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "287700": {
+      "appid": "287700",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "nombre_fix": "METAL GEAR SOLID V: THE PHANTOM PAIN - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "289650": {
+      "appid": "289650",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Visual C++, and Ubisoft Play.",
+        "It’s very likely that your antivirus will delete the uplay_r164.dll file, it is trustworthy and essential to play."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Unity",
+      "nombre_fix": "Assassins Creed Unity - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Visual C++",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "292730": {
+      "appid": "292730",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 11 and VC Redist",
+        "Open the game with iw7-mod.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty: Infinite Warfare",
+      "nombre_fix": "Call of Duty Infinite Warfare - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 11",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "298110": {
+      "appid": "298110",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, VC Redist and .NET 4.0."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry 4",
+      "nombre_fix": "Far Cry 4 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "311210": {
+      "appid": "311210",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 11 and VC Redist",
+        "Open the game with t7x.exe, only works with that exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty: Black Ops III",
+      "nombre_fix": "Call of Duty Black Ops III - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 11",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "311560": {
+      "appid": "311560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Rogue",
+      "nombre_fix": "Assassin's Creed Rogue - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "312660": {
+      "appid": "312660",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Sniper Elite 4",
+      "nombre_fix": "Sniper Elite 4 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "354380": {
+      "appid": "354380",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/grid/9e0b74a472b637a40fed9506a7539e5e.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/38a9dbfce0500ac32fa4092cf609e572.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, DoNet and VC Redist 2010."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin’s Creed Chronicles: China",
+      "nombre_fix": "Assassins Creed Chronicles China - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist 2010",
+        "DoNet"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "356190": {
+      "appid": "356190",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Middle-earth™: Shadow of War™",
+      "nombre_fix": "Middle-earth™: Shadow of War™ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "359610": {
+      "appid": "359610",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/grid/efc7802abcfcabf60cf5abe86e9b0465.png",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/05761d7cd3d824ac6da56e12eb7c8c6f.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, DoNet and VC Redist 2010."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin’s Creed Chronicles: India",
+      "nombre_fix": "Assassin's Creed Chronicles India - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist 2010",
+        "DoNet"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "368500": {
+      "appid": "368500",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and Visual C++."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Syndicate",
+      "nombre_fix": "Assassin's Creed Syndicate - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "Visual C++",
+        "Visual C++ 2012"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "371660": {
+      "appid": "371660",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, VC Redist 2012 and .NET 4.0."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry Primal",
+      "nombre_fix": "Far Cry Primal - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist 2012",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "446560": {
+      "appid": "446560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/grid/1bd0726541b5b65167034a4449ebf1f5.png",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/4dad75d2365dedf73aa94b7606de7426.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Just Dance 2017",
+      "nombre_fix": "Just Dance 2017 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "447040": {
+      "appid": "447040",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET 4.0 and Ubisoft Play.",
+        "Remember to launch the game with exe WatchDogs2.exe inside the bin folder"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Watch_Dogs 2",
+      "nombre_fix": "Watch_Dogs 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "460930": {
+      "appid": "460930",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET 4.0 and Ubisoft Play.",
+        "The game takes a long time to load (10-15 min), just be patient.",
+        "It’s very likely that your antivirus will delete some files. Mark the game’s folder as an exception and apply the fix again if you encounter any related errors."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Tom Clancy's Ghost Recon Wildlands",
+      "nombre_fix": "Tom Clancy's Ghost Recon Wildlands - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "488790": {
+      "appid": "488790",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "South Park The Fractured But Whole",
+      "nombre_fix": "South Park The Fractured But Whole - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "493340": {
+      "appid": "493340",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2015 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Planet Coaster",
+      "nombre_fix": "Planet Coaster - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2015",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "517630": {
+      "appid": "517630",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, VC Redist 2010 and VC Redist 2015."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Just Cause 4",
+      "nombre_fix": "Just Cause 4 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist 2010",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "532210": {
+      "appid": "532210",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "When I launched it for the first time through Steam, it closed, but the second time it opened fine. If the game doesn’t open for you, try launching it using the executable located at: LIS2/Binaries/Win64/LIS2-Win64-Shipping.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Life is Strange 2",
+      "nombre_fix": "Life is Strange 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "552520": {
+      "appid": "552520",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play, VC Redist 2012 and .NET 4.0.",
+        "It’s very likely that your antivirus will delete some files. Mark the game’s folder as an exception and apply the fix again if you encounter any related errors.",
+        "The game only works with my version of manifest, download it from my bot or from the library here in the app"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry 5",
+      "nombre_fix": "Far Cry 5 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist 2012",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "582160": {
+      "appid": "582160",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Origins",
+      "nombre_fix": "Assassins Creed Origins - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "637100": {
+      "appid": "637100",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Sonic Forces™",
+      "nombre_fix": "Sonic Forces™ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "646910": {
+      "appid": "646910",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play.",
+        "If you cant open the game with steam, try to open it with the exe in the folder called TheCrew2.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "The Crew 2",
+      "nombre_fix": "The Crew 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "668580": {
+      "appid": "668580",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Atomic Heart",
+      "nombre_fix": "Atomic Heart - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "678950": {
+      "appid": "678950",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "The fix is made in the Spanish language. If you want to play in English, you must access: Engine\\Binaries\\ThirdParty\\Steamworks\\Steamv141\\Win64 and open the .ini file that is in the folder. Inside the file, change the language line and put this: Language=English."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "DRAGON BALL FighterZ",
+      "nombre_fix": "DRAGON BALL FighterZ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "752590": {
+      "appid": "752590",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "A Plague Tale: Innocence",
+      "nombre_fix": "A Plague Tale: Innocence - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "779340": {
+      "appid": "779340",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist 2022."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Total War: THREE KINGDOMS",
+      "nombre_fix": "Total War: THREE KINGDOMS - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "782330": {
+      "appid": "782330",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "DOOM Eternal",
+      "nombre_fix": "DOOM Eternal - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "785260": {
+      "appid": "785260",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Team Sonic Racing™",
+      "nombre_fix": "Team Sonic Racing™ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "812140": {
+      "appid": "812140",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Odyssey",
+      "nombre_fix": "Assassins Creed Odyssey - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "911400": {
+      "appid": "911400",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/grid/9ca302e07507002d527cc02ac1372c09.png",
+        "hero_image": "https://cdn2.steamgriddb.com/thumb/f0ce59b6bf8e03499c788c348919a196.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed III Remastered",
+      "nombre_fix": "Assassins Creed III Remastered - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Play"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "916440": {
+      "appid": "916440",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC Redist.",
+        "The game only works with my version of manifest, download it from my bot or from the library here in the app",
+        "Possibly the antivirus deletes files, if that happens, mark the game folder as an exception and apply the fix again"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Anno 1800",
+      "nombre_fix": "Anno 1800 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "939850": {
+      "appid": "939850",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "Open the game with ManOfMedan.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "The Dark Pictures Anthology: Man of Medan™",
+      "nombre_fix": "The Dark Pictures Anthology: Man of Medan - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "939960": {
+      "appid": "939960",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Far Cry New Dawn",
+      "nombre_fix": "Far Cry New Dawn - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "953580": {
+      "appid": "953580",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Tourist Bus Simulator",
+      "nombre_fix": "Tourist Bus Simulator - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "990080": {
+      "appid": "990080",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "It is very important to launch the game using the first .exe you see in the folder.",
+        "Your antivirus may block the EMP.dll file, it is completely safe. To make the fix work, you need to allow it and reapply the fix."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Hogwarts Legacy",
+      "nombre_fix": "Hogwarts Legacy - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2019",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1113000": {
+      "appid": "1113000",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2010 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Persona 4 Golden",
+      "nombre_fix": "Persona 4 Golden - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2010",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1114150": {
+      "appid": "1114150",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "You need to launch the game using the **CarX Street.exe** executable."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "CarX Street™",
+      "nombre_fix": "CarX Street - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1134570": {
+      "appid": "1134570",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist 2020",
+        "The game only works with my version of manifest, download it from my bot or from the library here in the app"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "F1 2021",
+      "nombre_fix": "F1 2021 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist 2020"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1172380": {
+      "appid": "1172380",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist 2015"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "nombre_fix": "STAR WARS Jedi La Orden caída - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1174180": {
+      "appid": "1174180",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX.",
+        "The game is not compatible with Steam, it needs to be launched using the executable called Launcher.exe inside the game folder.",
+        "It is very important to launch the game using the Launcher.exe executable.",
+        "It's very important that your graphics card is compatible with DirectX 12, otherwise the game won't start."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Red Dead Redemption 2",
+      "nombre_fix": "Red Dead Redemption 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1222670": {
+      "appid": "1222670",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA Play and VC Redist 2014.",
+        "The game must be launched from the executable in the game folder named 'TS4_x64.exe'. If you launch it from Steam, it won’t work.",
+        "You need to have the EA app installed, or the game won't launch."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "The Sims 4",
+      "nombre_fix": "The Sims 4 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2012"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1222680": {
+      "appid": "1222680",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and EA Play.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "You need to have the EA app installed, or the game won't launch.",
+        "Make sure you have the last CPU drivers"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Heat",
+      "nombre_fix": "Need for Speed Heat - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2017",
+        "VC Redist 2019"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1222690": {
+      "appid": "1222690",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2015 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Dragon Age™ Inquisition",
+      "nombre_fix": "Dragon Age™ Inquisition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2015",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1222700": {
+      "appid": "1222700",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA Play, VC Redist 2013 and VC Redist 2015.",
+        "It's important to launch the game using the executable named 'A Way Out.exe'.",
+        "There is no longer an online solution for this game, but if you want to play with a friend, you can. You just need the Parsec application; with it, your friend can play from their PC as if they were connecting a controller to your home computer.",
+        "You need to have the EA app installed, or the game won't launch."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "A Way Out",
+      "nombre_fix": "A Way Out - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2013",
+        "VC Redist 2013"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1225560": {
+      "appid": "1225560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA Play and VC Redist 2012.",
+        "The game must be launched from the executable in the folder named 'Unravel.exe'. If you launch it from Steam, it won’t work.",
+        "You need to have the EA app installed, or the game won't launch."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Unravel",
+      "nombre_fix": "Unravel - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2012"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1225570": {
+      "appid": "1225570",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA Play, VC Redist 2013 and VC Redist 2015.",
+        "It's important to launch the game using the executable named 'UnravelTwo.exe'.",
+        "If you want to play with a friend, you can. You just need the Parsec application; with it, your friend can play from their PC as if they were connecting a controller to your home computer.",
+        "You need to have the EA app installed, or the game won't launch."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Unravel Two",
+      "nombre_fix": "Unravel 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2013",
+        "VC Redist 2013"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1233570": {
+      "appid": "1233570",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 11, EA Play and VC Redist.",
+        "If the game dont launch, open the game with the exe in the folder called MirrorsEdgeCatalyst.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Mirror's Edge™ Catalyst",
+      "nombre_fix": "Mirror's Edge Catalyst - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 11",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1237320": {
+      "appid": "1237320",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Sonic Frontiers",
+      "nombre_fix": "Sonic Frontiers - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1237950": {
+      "appid": "1237950",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App, VC Redist 2013 and VC Redist 2015"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "STAR WARS™ Battlefront™ II",
+      "nombre_fix": "STAR WARS Battlefront II - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist 2013",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1238820": {
+      "appid": "1238820",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 11, EA Play and VC Redist 2013.",
+        "The game opens with the exe *bf3.exe*"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Battlefield 3",
+      "nombre_fix": "Battlefield 3 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 11",
+        "VC Redist 2013"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1238840": {
+      "appid": "1238840",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12, EA Play and VC Redist 2022.",
+        "The game does not work if you open it with Steam, you must open it with the exe called bf1.exe that is inside the main folder of the game"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Battlefield™ 1",
+      "nombre_fix": "Battlefield 1 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1238860": {
+      "appid": "1238860",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 11, EA Play and VC Redist 2013.",
+        "The game opens with the exe *bf4.exe*"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Battlefield 4",
+      "nombre_fix": "Battlefield 4 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 11",
+        "VC Redist 2013"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1238880": {
+      "appid": "1238880",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12, EA Play and VC Redist 2015.",
+        "The game does not work if you open it with Steam, you must open it with the exe called bfH.exe that is inside the main folder of the game"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Battlefield™ Hardline",
+      "nombre_fix": "Battlefield™ Hardline - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 12",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1244460": {
+      "appid": "1244460",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist 2022.",
+        "When you start the game, a runtime error appears. Just click Ignore All and that’s it."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Jurassic World Evolution 2",
+      "nombre_fix": "Jurassic World Evolution 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1250410": {
+      "appid": "1250410",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "The game is so heavy, I'm warning you :)"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Microsoft Flight Simulator (2020)",
+      "nombre_fix": "Microsoft Flight Simulator (2020) - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1262560": {
+      "appid": "1262560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and EA Play.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Most Wanted",
+      "nombre_fix": "Need for Speed Most Wanted - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1262580": {
+      "appid": "1262580",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and EA Play.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "You need to have the EA app installed, or the game won't launch.",
+        "I know, I know the fix is too large, but it’s the best I could come up with to make everything work properly :("
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Payback",
+      "nombre_fix": "Need for Speed Payback - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2013",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1262600": {
+      "appid": "1262600",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/7f3721efabdb38d926d9688f7e1ed28e.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and EA Play.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "You need to have the EA app installed, or the game won't launch.",
+        "Your antivirus may block the RldOrigin.dll file, it is completely safe and necessary to play."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Rivals",
+      "nombre_fix": "Need For Speed Rivals - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1313860": {
+      "appid": "1313860",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FIFA 21",
+      "nombre_fix": "EA SPORTS FIFA 21 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1328660": {
+      "appid": "1328660",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and EA Play.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "You need to have the EA app installed, or the game won't launch.",
+        "Make sure you have the last CPU drivers"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Hot Pursuit Remastered",
+      "nombre_fix": "Need for Speed Hot Pursuit Remastered - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2017",
+        "VC Redist 2019"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1382330": {
+      "appid": "1382330",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Persona 5 Strikers",
+      "nombre_fix": "Persona 5 Strikers - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2019",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1401590": {
+      "appid": "1401590",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "To start the game for the first time, you must enter the game's main folder and delete the steam.txt file, or you will not be able to start the game"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Disney Dreamlight Valley",
+      "nombre_fix": "Disney Dreamlight Valley - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1426210": {
+      "appid": "1426210",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA Play, VC Redist 2013 and VC Redist 2015.",
+        "There is no longer an online solution for this game, but if you want to play with a friend, you can. You just need the Parsec application; with it, your friend can play from their PC as if they were connecting a controller to your home computer.",
+        "You need to have the EA app installed, or the game won't launch."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "It Takes Two",
+      "nombre_fix": "It Takes Two - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2013",
+        "VC Redist 2013"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1466860": {
+      "appid": "1466860",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Age of Empires IV: Anniversary Edition",
+      "nombre_fix": "Age of Empires IV: Anniversary Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1498570": {
+      "appid": "1498570",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "THE KING OF FIGHTERS XV",
+      "nombre_fix": "THE KING OF FIGHTERS XV - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1506830": {
+      "appid": "1506830",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FIFA 22",
+      "nombre_fix": "FIFA 22 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1546970": {
+      "appid": "1546970",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto III - The Definitive Edition",
+      "nombre_fix": "Grand Theft Auto III - The Definitive Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1546990": {
+      "appid": "1546990",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+      "nombre_fix": "Grand Theft Auto: Vice City - The Definitive Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1547000": {
+      "appid": "1547000",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "nombre_fix": "Grand Theft Auto San Andreas - The Definitive Edition - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1659040": {
+      "appid": "1659040",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "HITMAN World of Assassination",
+      "nombre_fix": "HITMAN World of Assassination - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1687950": {
+      "appid": "1687950",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Persona 5 Royale",
+      "nombre_fix": "Persona 5 Royale - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2019",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1692250": {
+      "appid": "1692250",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist 2021",
+        "The game only works with my version of manifest, download it from my bot or from the library here in the app"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "F1® 22",
+      "nombre_fix": "F1 2022 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist 2021"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1693980": {
+      "appid": "1693980",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Dead Space",
+      "nombre_fix": "Dead Space - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1774580": {
+      "appid": "1774580",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist 2015"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "STAR WARS Jedi: Survivor™",
+      "nombre_fix": "STAR WARS Jedi La Orden caída - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist 2015"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1811260": {
+      "appid": "1811260",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "disponible": false,
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FIFA 23",
+      "nombre_fix": "FIFA 23 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1846380": {
+      "appid": "1846380",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "1. Install the game using files from 'Need for Speed Unbound - GET HERE'. If already installed, update via SteamTools.",
+        "2. Open Project Lightning, select Need for Speed Unbound, and apply the fix to the game folder.",
+        "3. Run NeedForSpeedUnbound.exe to generate the Denuvo ticket.",
+        "4. Send 'DenuvoTicket' file via request zone in my server (short message first).",
+        "5. Replace 'DenuvoToken' in anadius.cfg with the token I send you. Keep the quotes.",
+        "6. Save the config and launch NeedForSpeedUnbound.exe.",
+        "Game requires my manifest version to work.",
+        "Support only via AnyDesk.",
+        "Disable Windows/driver updates to avoid issues.",
+        "If updated, send a new DenuvoTicket and repeat steps."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Need for Speed™ Unbound",
+      "nombre_fix": "Need for Speed Unbound - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX",
+        "VC Redist 2017",
+        "VC Redist 2019"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1874000": {
+      "appid": "1874000",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist 2022."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Life is Strange: Double Exposure",
+      "nombre_fix": "Life is Strange Double Exposure - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1904540": {
+      "appid": "1904540",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist 2022."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Football Manager 2023",
+      "nombre_fix": "Football Manager 2023 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1938010": {
+      "appid": "1938010",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "To open the game, you need to open the WILD HEARTS.exe file located inside the WILD HEARTS/00_game/target_origin/ex folder."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "WILD HEARTS",
+      "nombre_fix": "WILD HEARTS - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1941540": {
+      "appid": "1941540",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Mafia: The Old Country",
+      "nombre_fix": "Mafia: The Old Country - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1971870": {
+      "appid": "1971870",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Mortal Kombat 1",
+      "nombre_fix": "Mortal Kombat 1 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "1985810": {
+      "appid": "1985810",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "Open the game with BlackOpsColdWar.exe",
+        "When the game starts for the first time, it usually takes a long time, wait 5 minutes and if it continues loading, close the game and reopen it."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty®: Black Ops Cold War",
+      "nombre_fix": "Call of Duty Black Ops Cold War - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2000950": {
+      "appid": "2000950",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "disponible": false,
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "For open the game, use the bat called !start_cod.bat",
+        "The bypass does not have saved game for now, I am working on it"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty®: Modern Warfare®",
+      "nombre_fix": "Call of Duty Modern Warfare (2019) - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2001120": {
+      "appid": "2001120",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12, EA Play and VC Redist 2022.",
+        "The game already includes the online fix, but to play with your friends, you all must have the latest version of the game."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Split Fiction",
+      "nombre_fix": "Unravel 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2050650": {
+      "appid": "2050650",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2019 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Resident Evil 4",
+      "nombre_fix": "Resident Evil 4 Remake - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2019",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2054970": {
+      "appid": "2054970",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "VERY IMPORTANT: STEAM MUST BE CLOSED before launching the game, or you will get an error.",
+        "Open the game with DD2.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Dragon's Dogma 2™",
+      "nombre_fix": "Dragon's Dogma 2 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2055290": {
+      "appid": "2055290",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2021 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Sonic Colors: Ultimate™",
+      "nombre_fix": "Sonic Colors: Ultimate™ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2021",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2161700": {
+      "appid": "2161700",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Persona 3 Reload",
+      "nombre_fix": "Persona 3 Reload - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2208920": {
+      "appid": "2208920",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC C++ 2019.",
+        "The game takes a long time to load the first time, just be patient.",
+        "It’s very likely that your antivirus will delete some files. Mark the game’s folder as an exception and apply the fix again if you encounter any related errors."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Valhalla",
+      "nombre_fix": "Assassin's Creed Valhalla - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        "VC C++ 2019"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2215200": {
+      "appid": "2215200",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/0e4b1c1efa3eae61066f2fefe7bdf487.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "nombre_fix": "LEGO® Batman™: Legacy of the Dark Knight - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2239550": {
+      "appid": "2239550",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET 4.0 and Ubisoft Play."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Watch Dogs: Legion",
+      "nombre_fix": "Watch Dogs: Legion - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        "Ubisoft Play",
+        ".NET 4.0"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2290180": {
+      "appid": "2290180",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect.",
+        "To launch the game, you need to use the Start.exe executable included in the game's root folder.",
+        "Only ZEN Mode is available. It is the only offline mode the game has, so please don't ask about the normal mode."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Riders Republic - ZEN MODE",
+      "nombre_fix": "Riders Republic - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Connect"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2358720": {
+      "appid": "2358720",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Black Myth: Wukong",
+      "nombre_fix": "Black Myth: Wukong - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2373990": {
+      "appid": "2373990",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Solo Leveling: ARISE OVERDRIVE",
+      "nombre_fix": "Solo Leveling: ARISE OVERDRIVE - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2399420": {
+      "appid": "2399420",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Le Mans Ultimate",
+      "nombre_fix": "Le Mans Ultimate - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2428810": {
+      "appid": "2428810",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "LEGO® Horizon Adventures™",
+      "nombre_fix": "LEGO® Horizon Adventures™ - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "PlayStation",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2668510": {
+      "appid": "2668510",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX.",
+        "The game is not compatible with Steam, it needs to be launched using the executable inside the game folder.",
+        "It is very important to launch the game using the RDR.exe executable.",
+        "It's very important that your graphics card is compatible with DirectX 12, otherwise the game won't start."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Red Dead Redemption",
+      "nombre_fix": "Red Dead Redemption -  bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2669320": {
+      "appid": "2669320",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "1. Install the game using files from 'FC 25 - GET HERE'. If already installed, update via SteamTools.",
+        "2. Open Project Lightning, select FC 25, and apply the fix to the game folder.",
+        "3. Run FC25.exe to generate the Denuvo ticket.",
+        "4. Send 'DenuvoTicket' file via request zone in my server (short message first).",
+        "5. Replace 'DenuvoToken' in anadius.cfg with the token I send you. Keep the quotes.",
+        "6. Save the config and launch FC25.exe.",
+        "Game requires my manifest version to work.",
+        "Support only via AnyDesk.",
+        "Disable Windows/driver updates to avoid issues.",
+        "If updated, send a new DenuvoTicket and repeat steps."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FC 25",
+      "nombre_fix": "EA SPORTS FC 25 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2680010": {
+      "appid": "2680010",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "The First Berserker: Khazan",
+      "nombre_fix": "The First Berserker: Khazan - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2751000": {
+      "appid": "2751000",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Prince of Persia The Lost Crown",
+      "nombre_fix": "Prince of Persia The Lost Crown - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Connect"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2806050": {
+      "appid": "2806050",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/fd8654430887f3e4af5d65eef1353d91.jpg",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/9e00a3de909a5e4ada9324bc7aa1fea2.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Halo: Campaign Evolved™",
+      "nombre_fix": "Halo: Campaign Evolved - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2807960": {
+      "appid": "2807960",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://cdn2.steamgriddb.com/hero/004f80e7f7de9dfcf83c20e0174e41cd.png",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/82e43901d337d05ef3ae610442c8606b.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12, EA Play and VC Redist 2022.",
+        "The game does not work if you open it with Steam, you must open it with the exe called bf6.exe that is inside the main folder of the game",
+        "It will only work if you use my game manifests"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Battlefield™ 6",
+      "nombre_fix": "Battlefield 6 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "EA App",
+        "DirectX 12",
+        "VC Redist 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2840770": {
+      "appid": "2840770",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Avatar: Frontiers of Pandora",
+      "nombre_fix": "Avatar: Frontiers of Pandora - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Connect"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2842040": {
+      "appid": "2842040",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, .NET, and Ubisoft Connect."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Star Wars Outlaws",
+      "nombre_fix": "Star Wars Outlaws - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX",
+        ".NET",
+        "Ubisoft Connect"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "2933620": {
+      "appid": "2933620",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/1981baaee6f2be15f26b1af0e88bf46c.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "Open the game with _BO6 Lightning Launcher_.exe",
+        "Possibly the antivirus deletes files, if that happens, mark the game folder as an exception and apply the fix again",
+        "The game its a DLC, and the fix is applied to the Call of Duty HQ folder",
+        "It's only necessary to select Call of duty black ops 6 campaign DLC in the game Call of duty",
+        "If the screen gets stuck on the Launching screen, you just need to press ESC."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty®: Black Ops 6",
+      "nombre_fix": "Call of Duty Black Ops 6 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3010850": {
+      "appid": "3010850",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist.",
+        "You need to launch the game using the **GoWEDay-Steam.exe** executable. inside FairlightConcept/Binaries/Win64 folder"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Gears of War: E-Day",
+      "nombre_fix": "Gears of War: E-Day - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3017860": {
+      "appid": "3017860",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "DOOM: The Dark Ages",
+      "nombre_fix": "DOOM: The Dark Ages - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3035570": {
+      "appid": "3035570",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12, Ubisoft Play and VC C++ 2019.",
+        "To remove fps monitoring you just have to press the letter 'P' several times"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Mirage",
+      "nombre_fix": "Assassin's Creed Mirage - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX 12",
+        "Ubisoft Play",
+        "VC C++ 2019"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3059520": {
+      "appid": "3059520",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "cover_image": "https://cdn2.steamgriddb.com/grid/da8f17df33b392e61af87eedc7a02773.png",
+        "hero_image_x2": "https://cdn2.steamgriddb.com/hero/7a42294ed0341f5e2dc1c218cbb711ab.png",
+        "logo_img": "https://cdn2.steamgriddb.com/logo/59ccc377d175af5b04d0c03dea8a1b9c.png"
+      },
+      "disponible": true,
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "1. Install the game using files from 'F1 25 - GET HERE'. If already installed, update via SteamTools.",
+        "2. Open Project Lightning, select F1 25, and apply the fix to the game folder.",
+        "3. Run _F1 25_Lightning Launcher_.exe to generate the Denuvo ticket.",
+        "4. Send 'DenuvoTicket' file via request zone in my server (short message first).",
+        "5. Replace 'DenuvoToken' in anadius.cfg with the token I send you. Keep the quotes.",
+        "6. Save the config and launch _F1 25_Lightning Launcher_.exe.",
+        "Game requires my manifest version to work.",
+        "Support only via AnyDesk.",
+        "Disable Windows/driver updates to avoid issues.",
+        "If updated, send a new DenuvoTicket and repeat steps."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "F1® 25 + F1® 26 Season Pack",
+      "nombre_fix": "F1 25 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3159330": {
+      "appid": "3159330",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC C++ 2022"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Assassin's Creed Shadows",
+      "nombre_fix": "Assassin's Creed Shadows - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX 12",
+        "Ubisoft Play",
+        "VC C++ 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3240220": {
+      "appid": "3240220",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install Rockstar Games Launcher, Microsoft Visual C++ Redistributable and DirectX 12.",
+        "You will need to mark the game folder as a exception in defender before apply the fix or your antivirus will delete the bypass.",
+        "It's very important that your graphics card is compatible with DirectX 12, otherwise the game won't start.",
+        "It is very important to launch the game using the PlayGTAV.exe executable."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Grand Theft Auto V Enhanced",
+      "nombre_fix": "Grand Theft Auto V Enhanced -  bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "ROCKSTAR",
+      "programas_necesarios": [
+        "Rockstar Games Launcher",
+        "Microsoft Visual C++ Redistributable",
+        "DirectX 12"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3265250": {
+      "appid": "3265250",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist"
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "MindsEye",
+      "nombre_fix": "MindsEye - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3321460": {
+      "appid": "3321460",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Crimson Desert",
+      "nombre_fix": "Crimson Desert - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3357650": {
+      "appid": "3357650",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/2c655140a81f8a27d57576e3bf76fb90.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "PRAGMATA",
+      "nombre_fix": "PRAGMATA - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3405690": {
+      "appid": "3405690",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://i.imgur.com/nz7fmoI.png",
+        "hero_image": "https://cdn2.steamgriddb.com/grid/b447514189ba0925aa3969913019fefe.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "1. Install the game using files from 'FC 26 - GET HERE'. If already installed, update via SteamTools.",
+        "2. Open Project Lightning, select FC 26, and apply the fix to the game folder.",
+        "3. Run FC26.exe to generate the Denuvo ticket.",
+        "4. Send 'DenuvoTicket' file via request zone in my server (short message first).",
+        "5. Replace 'DenuvoToken' in anadius.cfg with the token I send you. Keep the quotes.",
+        "6. Save the config and launch FC26.exe.",
+        "Game requires my manifest version to work.",
+        "Support only via AnyDesk.",
+        "Disable Windows/driver updates to avoid issues.",
+        "If updated, send a new DenuvoTicket and repeat steps."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FC 26",
+      "nombre_fix": "EA SPORTS FC 26 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3489700": {
+      "appid": "3489700",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {},
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Stellar Blade™",
+      "nombre_fix": "Stellar Blade - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3595230": {
+      "appid": "3595230",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/5cef43602bc7486da26ba5fbf4483f43.png"
+      },
+      "disponible": false,
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "Open the game with _MWII Lightning Launcher_.exe",
+        "Possibly the antivirus deletes files, if that happens, mark the game folder as an exception and apply the fix again",
+        "If the screen gets stuck on the Launching screen, you just need to press ESC."
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty®: Modern Warfare® II",
+      "nombre_fix": "Call of Duty: Modern Warfare II - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3595270": {
+      "appid": "3595270",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/37e4af3db354d3552585983bc5a823f8.png"
+      },
+      "disponible": false,
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX 12 and VC Redist",
+        "Open the game with _MWIII Lightning Launcher_.exe",
+        "Possibly the antivirus deletes files, if that happens, mark the game folder as an exception and apply the fix again",
+        "If the screen gets stuck on the Launching screen, you just need to press ESC.",
+        "To play Zombie mode, you must enter Multiplayer and, once inside Local Multiplayer, press Right Control + Z"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Call of Duty®: Modern Warfare® III",
+      "nombre_fix": "Call of Duty: Modern Warfare III - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX 12",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3654560": {
+      "appid": "3654560",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3654560/4239904dc76eae613171cd3dec950b9e0abfbd5f/library_600x900.jpg"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX and VC Redist",
+        "If the game doesn't launch with steam, go to the main game path and open the exe Replanted.exe."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Plants vs. Zombies™: Replanted",
+      "nombre_fix": "Plants vs Zombies Replanted - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3751950": {
+      "appid": "3751950",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/36a1644b03afce1a648ab90b232196609e827539/library_capsule.jpg",
+        "hero_image_x2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/09d7b766ce8a26bce32887ec7eaf00fc36552025/library_hero_2x.jpg",
+        "logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751950/9928560f0155a0378d1cc915c165a1a09ba5d108/logo.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, Ubisoft Play and VC C++ 2022",
+        "Possibly the antivirus deletes files, if that happens, mark the game folder as an exception and apply the fix again"
+      ],
+      "exclusion": true,
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "Assassin's Creed Black Flag Resynced",
+      "nombre_fix": "Assassin's Creed Black Flag Resynced - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "UBISOFT",
+      "programas_necesarios": [
+        "DirectX 12",
+        "Ubisoft Play",
+        "VC C++ 2022"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3764200": {
+      "appid": "3764200",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/c532c72b7c2e87dbc1cba5ce235450ef.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "Resident Evil Requiem",
+      "nombre_fix": "Resident Evil Requiem - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3768760": {
+      "appid": "3768760",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "hero_image": "https://cdn2.steamgriddb.com/grid/9cd0f2a7c17876d6721916f09bce496c.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install .NET 4.6.2, Microsoft VC redistributable 2022 and DirectX."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "007 First Light",
+      "nombre_fix": "007 First Light - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "DENUVO",
+      "programas_necesarios": [
+        ".NET 4.6.2",
+        "Microsoft VC redistributable 2022",
+        "DirectX"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "3940610": {
+      "appid": "3940610",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940610/265d9223cba1401f91e9cc711ebe3a5f5e3440b8/library_capsule.jpg",
+        "hero_image_x2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940610/cc4e39c5595821cc1a1dbbcfa4174921a1af039a/library_hero_2x.jpg?t=1786718387",
+        "logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3940610/611efdfb6f3574cd31febfd68e1b24b1f5880c05/logo.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "You need to launch the game with the exe called Madden27.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS™ Madden NFL 27",
+      "nombre_fix": "EA SPORTS™ Madden NFL 27 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "4032350": {
+      "appid": "4032350",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "background": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/d7f665add8823c65c31620619fa50b91dbc07e28/library_hero_2x.jpg",
+        "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/0d18c22e927cc6fe246d6a0412c87096ff33c00a/library_capsule.jpg",
+        "hero_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/0d18c22e927cc6fe246d6a0412c87096ff33c00a/library_capsule.jpg",
+        "hero_image_x2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/d7f665add8823c65c31620619fa50b91dbc07e28/library_hero_2x.jpg?t=1784128711",
+        "logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4032350/58f40804b0aa54fbd62312128ba21a92a8c905ad/logo_2x.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "You need to launch the game with the exe called CollegeFB27.exe"
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS™ College Football 27",
+      "nombre_fix": "EA SPORTS™ College Football 27 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "4080220": {
+      "appid": "4080220",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "cover_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/81210d536b70c14e4cf9725f3f03d82bf64e5e25/library_capsule.jpg",
+        "hero_image_x2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/98909665528dc40a7d43fd3dd6edc8088ed98c44/library_hero_2x.jpg",
+        "logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/b99ce0289769853c76a0562e306a7054ed5f8ab6/logo.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "1. Install the game using files from 'FC 27 - GET HERE'. If already installed, update via SteamTools.",
+        "2. Open Project Lightning, select FC 27, and apply the fix to the game folder.",
+        "3. Run FC27.exe to generate the Denuvo ticket.",
+        "4. Send 'DenuvoTicket' file via request zone in my server (short message first).",
+        "5. Replace 'DenuvoToken' in anadius.cfg with the token I send you. Keep the quotes.",
+        "6. Save the config and launch FC27.exe.",
+        "Game requires my manifest version to work.",
+        "Support only via AnyDesk.",
+        "Disable Windows/driver updates to avoid issues.",
+        "If updated, send a new DenuvoTicket and repeat steps."
+      ],
+      "launch_exe": true,
+      "launch_steam": false,
+      "name": "EA SPORTS FC™ 27",
+      "nombre_fix": "EA SPORTS FC™ 27 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "EA",
+      "programas_necesarios": [
+        "DirectX",
+        "EA App",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    },
+    "4356430": {
+      "appid": "4356430",
+      "comentarios": "Enjoy the game ♥",
+      "custom_images": {
+        "cover_image": "https://cdn2.steamgriddb.com/grid/41f111384c98a213f4b187cf3e952245.png",
+        "hero_image_x2": "https://cdn2.steamgriddb.com/hero/8b780518215423ad12c4b6d2eac04230.png",
+        "logo_img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4356430/648606aa388d6cf2f2de8d1c55649bd164d8e98a/logo_2x.png"
+      },
+      "download_url": "https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/2524331e488ec6399c396cf48bbe9903/Goldberg_Lan_Steam_Emu_v0.2.5.zip",
+      "errores": [
+        "If the game shows errors when opening, you need to install DirectX, EA App and VC Redist",
+        "To launch the game through Steam, select the option “Play without Easy Anti-Cheat” when pressing the Play button in Steam.",
+        "If you're still having issues, simply go to the game folder and launch it using the NBA2K27.exe executable."
+      ],
+      "launch_exe": true,
+      "launch_steam": true,
+      "name": "NBA 2K27",
+      "nombre_fix": "NBA 2K27 - bypass",
+      "note": "Generic fallback; game-specific compatibility is not verified",
+      "platform": "OTHERS",
+      "programas_necesarios": [
+        "DirectX",
+        "VC Redist"
+      ],
+      "source_type": "fallback",
+      "verified": false
+    }
+  },
+  "last_updated": "2026-10-08T06:41:58.689Z"
+}
